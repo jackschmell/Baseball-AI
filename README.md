@@ -24,10 +24,10 @@ Overall, the use of AI in baseball is just getting started. As the technology co
 
 Being able to identify the pitch type before the ball is thrown can be helpful in a number of ways in baseball or softball. Here are some possible benefits:
 
-Better timing and anticipation: When a batter can recognize the pitch type early, they can begin their swing earlier and adjust their timing accordingly. This can give them a better chance of making solid contact with the ball.
+*  Better timing and anticipation: When a batter can recognize the pitch type early, they can begin their swing earlier and adjust their timing accordingly. This can give them a better chance of making solid contact with the ball.
 
-Improved pitch selection: Knowing the pitch type in advance can help a batter make more informed decisions about whether to swing or not. For example, if they know a breaking ball is coming, they might be more likely to lay off a pitch that looks like it's in the strike zone but will break out of it.
+*  Improved pitch selection: Knowing the pitch type in advance can help a batter make more informed decisions about whether to swing or not. For example, if they know a breaking ball is coming, they might be more likely to lay off a pitch that looks like it's in the strike zone but will break out of it.
 
-Better strategic decisions: Knowing the pitch type can also help a team make better strategic decisions. For example, if a base runner knows a pitcher is likely to throw a breaking ball with a runner on first base, they might be more likely to steal second base because the pitcher will have a harder time throwing them out.
+*  Better strategic decisions: Knowing the pitch type can also help a team make better strategic decisions. For example, if a base runner knows a pitcher is likely to throw a breaking ball with a runner on first base, they might be more likely to steal second base because the pitcher will have a harder time throwing them out.
 
 Overall, being able to identify the pitch type before the ball is thrown can give batters and teams a competitive advantage in baseball 
