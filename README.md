@@ -58,4 +58,16 @@ The Astros' use of this system has since been widely condemned, and the team has
 
 Nevertheless, the 2017 season remains a stark reminder of the potential benefits of having access to advanced data and technology in baseball, and the importance of ensuring a level playing field for all teams
 
-# Results
+# Results and Justification
+
+To determine whether the amount of runs scored by the Astros in 2017 was unusual compared to league average, a hypothesis test was conducted.
+
+The null hypothesis was that there was no significant difference between the Astros' runs scored in 2017 and the league average runs scored. The alternative hypothesis was that there was a significant difference between the two.
+
+A significance level of 0.05 was chosen, meaning that if the p-value was less than 0.05, the null hypothesis would be rejected.
+
+The data was gathered and analyzed using statistical software, which calculated the mean and standard deviation of the league's runs scored and the Astros' runs scored.
+
+The z-score was then calculated, which measures the number of standard deviations a data point is from the mean. The z-score was found to be greater than 1.96, which is the critical value for a significance level of 0.05.
+
+This means that the p-value was less than 0.05 and the null hypothesis was rejected. Therefore, it was concluded that the amount of runs scored by the Astros in 2017 was significantly different from the league average, indicating that their performance was unusual compared to other teams.
