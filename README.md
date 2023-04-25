@@ -30,6 +30,8 @@ Being able to identify the pitch type before the ball is thrown can be helpful i
 
 *  Better strategic decisions: Knowing the pitch type can also help a team make better strategic decisions. For example, if a base runner knows a pitcher is likely to throw a breaking ball with a runner on first base, they might be more likely to steal second base because the pitcher will have a harder time throwing them out.
 
+<img src='https://wallpapers.com/images/featured/gza8bsyc04oix54s.jpg'>
+
 Being able to identify the pitch type before the ball is thrown can give batters and teams a competitive advantage in baseball 
 
 The Houston Astros are a prime example of how having knowledge of what pitch is coming before it is thrown can lead to success for batters. The Houston Astros' electronic sign-stealing system that was used during the 2017 season had a significant impact on the team's offensive performance. When comparing the Astros' offensive statistics from 2016 to 2017, there is a noticeable improvement across the board. In 2016, the team had a batting average of .247, an on-base percentage of .319, and a slugging percentage of .417. However, in 2017, these statistics increased to .282, .346, and .478, respectively. Additionally, the team's weighted on-base average (wOBA) increased from .319 to .346, and their weighted runs created plus (wRC+) increased from 102 to 121. These improvements in the Astros' batting stats cannot be solely attributed to the electronic sign-stealing system, as there were other factors at play. Nonetheless, it is clear that the system had a significant impact on the team's offensive performance and contributed to their success in the 2017 season
