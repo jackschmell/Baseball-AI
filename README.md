@@ -57,3 +57,5 @@ While the impact of the electronic sign-stealing system may never be fully quant
 The Astros' use of this system has since been widely condemned, and the team has faced significant penalties and reputational damage as a result.
 
 Nevertheless, the 2017 season remains a stark reminder of the potential benefits of having access to advanced data and technology in baseball, and the importance of ensuring a level playing field for all teams
+
+# Results
