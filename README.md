@@ -39,7 +39,6 @@ Being able to identify the pitch type before the ball is thrown can give batters
 
 "Did the Astros gain a competitive advantage? Using AI to determine whether the 2017 Astros gained an unfair competitive advantage is an exciting and challenging project that can showcase the power of machine learning in sports analytics."
 
-Sure, here's the spaced-out text:
 
 The Houston Astros are a prime example of how having knowledge of what pitch is coming before it is thrown can lead to success for batters.
 
