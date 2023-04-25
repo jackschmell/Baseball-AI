@@ -75,3 +75,9 @@ This means that the p-value was less than 0.05 and the null hypothesis was rejec
 Here is a visualization of where the Astros 2017 run production stands compared to the league average : 
 
 <img src='https://github.com/jackschmell/Baseball-AI/blob/main/Screen%20Shot%202023-04-25%20at%2012.12.54%20AM.png'>
+
+The z-score calculation showed that the amount of runs scored by the Astros in 2017 was significantly different from the league average, with a z-score greater than 1.96. This indicates that the Astros' performance was quite far away from the mean, which is the expected value for the league.
+
+The critical value for a significance level of 0.05 was 1.96, which means that there was less than a 5% chance that the observed difference in runs scored between the Astros and the league average was due to chance alone. Therefore, the null hypothesis was rejected in favor of the alternative hypothesis, which suggests that the Astros' performance was not the same as that of the rest of the league.
+
+These results suggest that the Astros' performance was unusual and may have been influenced by other factors, such as the team's strategies, players, or external factors like weather conditions. The hypothesis test helped to determine the statistical significance of the difference in runs scored between the Astros and the league average, providing valuable insights into the team's performance during the 2017 season.
