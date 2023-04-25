@@ -71,3 +71,7 @@ The data was gathered and analyzed using statistical software, which calculated 
 The z-score was then calculated, which measures the number of standard deviations a data point is from the mean. The z-score was found to be greater than 1.96, which is the critical value for a significance level of 0.05.
 
 This means that the p-value was less than 0.05 and the null hypothesis was rejected. Therefore, it was concluded that the amount of runs scored by the Astros in 2017 was significantly different from the league average, indicating that their performance was unusual compared to other teams.
+
+Here is a visualization of where the Astros 2017 run production stands compared to the league average : 
+
+<img src='/Users/jackschmell/Downloads/Screen Shot 2023-04-25 at 12.12.54 AM.png'
