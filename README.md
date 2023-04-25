@@ -37,4 +37,12 @@ Being able to identify the pitch type before the ball is thrown can be helpful i
 
 Being able to identify the pitch type before the ball is thrown can give batters and teams a competitive advantage in baseball 
 
+we will use machine learning algorithms to build a model that can detect patterns in the data that are indicative of cheating. We may use techniques such as anomaly detection, clustering, or classification to identify suspicious behavior by the Astros.
+
+Once the model is developed, we will use it to analyze the data from the 2017 MLB season and determine if the Astros cheated. We will also use statistical tests to validate our findings and ensure that our model is accurate.
+
+Throughout the project, we will use GitHub to store and version control our code, data, and analysis. This will allow us to collaborate with other researchers and ensure that our work is reproducible and transparent.
+
+In conclusion, using AI to determine if the 2017 Astros cheated is an exciting and challenging project that can showcase the power of machine learning in sports analytics
+
 The Houston Astros are a prime example of how having knowledge of what pitch is coming before it is thrown can lead to success for batters. The Houston Astros' electronic sign-stealing system that was used during the 2017 season had a significant impact on the team's offensive performance. When comparing the Astros' offensive statistics from 2016 to 2017, there is a noticeable improvement across the board. In 2016, the team had a batting average of .247, an on-base percentage of .319, and a slugging percentage of .417. However, in 2017, these statistics increased to .282, .346, and .478, respectively. Additionally, the team's weighted on-base average (wOBA) increased from .319 to .346, and their weighted runs created plus (wRC+) increased from 102 to 121. These improvements in the Astros' batting stats cannot be solely attributed to the electronic sign-stealing system, as there were other factors at play. Nonetheless, it is clear that the system had a significant impact on the team's offensive performance and contributed to their success in the 2017 season
