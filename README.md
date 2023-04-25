@@ -81,3 +81,5 @@ The z-score calculation showed that the amount of runs scored by the Astros in 2
 The critical value for a significance level of 0.05 was 1.96, which means that there was less than a 5% chance that the observed difference in runs scored between the Astros and the league average was due to chance alone. Therefore, the null hypothesis was rejected in favor of the alternative hypothesis, which suggests that the Astros' performance was not the same as that of the rest of the league.
 
 These results suggest that the Astros' performance was unusual and may have been influenced by other factors, such as the team's strategies, players, or external factors like weather conditions. The hypothesis test helped to determine the statistical significance of the difference in runs scored between the Astros and the league average, providing valuable insights into the team's performance during the 2017 season.
+
+In conclusion, it is certainly possible that the results of the hypothesis test could justify the effects and advantages of this sign-stealing scheme. 
