@@ -74,4 +74,4 @@ This means that the p-value was less than 0.05 and the null hypothesis was rejec
 
 Here is a visualization of where the Astros 2017 run production stands compared to the league average : 
 
-<img src='/Users/jackschmell/Downloads/Screen Shot 2023-04-25 at 12.12.54 AM.png'
+<img src='/Users/jackschmell/Downloads/Screen Shot 2023-04-25 at 12.12.54 AM.png'>
