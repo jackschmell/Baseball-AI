@@ -31,7 +31,9 @@ Being able to identify the pitch type before the ball is thrown can be helpful i
 *  Better strategic decisions: Knowing the pitch type can also help a team make better strategic decisions. For example, if a base runner knows a pitcher is likely to throw a breaking ball with a runner on first base, they might be more likely to steal second base because the pitcher will have a harder time throwing them out.
 
 <img src='https://wallpapers.com/images/featured/gza8bsyc04oix54s.jpg'>
-# Pitch Classification Using AlexNet
+
+
+# Reacting versus Guessing
 
 Being able to identify the pitch type before the ball is thrown can give batters and teams a competitive advantage in baseball 
 
