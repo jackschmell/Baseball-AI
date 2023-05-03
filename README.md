@@ -4,6 +4,8 @@
 
 # Baseball-AI
 
+<img src='https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/claflin.sidearmsports.com/images/2018/9/11/baseball_image_71.jpg'>
+
 
 
 
