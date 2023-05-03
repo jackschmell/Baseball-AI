@@ -19,6 +19,11 @@
 
 # Pitch Classification Using AlexNet
 
+
+<img src='https://qph.cf2.quoracdn.net/main-qimg-84e2348d6dc2712ff2bb17262486232b'>
+
+
+
 This project aims to classify pitching types in baseball using deep learning techniques. Specifically, we use the AlexNet architecture to train a convolutional neural network (CNN) on a dataset of photographs of pitchers in action, with labels indicating the type of pitch thrown (e.g. fastball, curveball, slider).
 
 The trained model can be used to automatically classify new photographs of pitchers, potentially revolutionizing the way scouting and recruiting is done in the baseball industry. By automating the process of identifying pitchers with certain pitching types, teams can more efficiently identify and recruit the players that best fit their needs.
