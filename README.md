@@ -37,9 +37,6 @@ Being able to identify the pitch type before the ball is thrown can be helpful i
 
 Being able to identify the pitch type before the ball is thrown can give batters and teams a competitive advantage in baseball 
 
-"Did the Astros gain a competitive advantage? Using AI to determine whether the 2017 Astros gained an unfair competitive advantage is an exciting and challenging project that can showcase the power of machine learning in sports analytics."
-
-
 The Houston Astros are a prime example of how having knowledge of what pitch is coming before it is thrown can lead to success for batters.
 
 The Houston Astros' electronic sign-stealing system that was used during the 2017 season had a significant impact on the team's offensive performance.
