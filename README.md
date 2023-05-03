@@ -99,4 +99,4 @@ In conclusion, it is certainly possible that the results of the hypothesis test 
 
 # Video 
 
-[video]('https://www.youtube.com/watch?v=3QDkjKFXK3c')
+[video](https://www.youtube.com/watch?v=3QDkjKFXK3c) 
